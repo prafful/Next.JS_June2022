@@ -1,0 +1,16 @@
+Get all dogs ->https://dog.ceo/api/breeds/list/all
+Get specifc dog image -> https://dog.ceo/api/breed/komondor/images/random
+
+komondor is name of the breed
+name of breed comes from "Get all dogs"
+
+Get all dog images of specific breed ->https://dog.ceo/api/breed/komondor/images/
+komondor is name of the breed
+
+e.g.
+https://dog.ceo/api/breed/bulldog/images/random
+https://dog.ceo/api/breed/bulldog/boston/images/random
+https://dog.ceo/api/breed/bulldog/english/images/random
+
+
+
